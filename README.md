@@ -1,2 +1,0 @@
-# ideasdelsur
-control de huespedes
